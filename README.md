@@ -59,7 +59,7 @@ No references to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/synthetic-control-toolkit.git
+git clone [https://github.com/<your-username>/synthetic-control-toolkit.git](https://github.com/ansel-lin-global/synthetic-control-toolkit.git)
 cd synthetic-control-toolkit
 ```
 
@@ -195,7 +195,6 @@ synthetic-control-toolkit/
 ├── src/
 │   ├── scm_core.py          # SCM weights + log-rescale
 │   ├── scm_placebo.py       # Placebo testing module
-│   ├── scm_utils.py         # (optional) utility functions
 │   └── __init__.py
 ├── examples/
 │   ├── demo_scm.ipynb       # Interactive example (optional)
@@ -223,11 +222,6 @@ This toolkit offers a **clean, practical implementation** that mirrors what’s 
 
 ## ✨ Author
 
-**Astrid Lin**  
+**Ansel Lin**  
 Product-minded Data Scientist | Causal Inference | ML Systems
 
----
-
-## 📜 License
-
-MIT License (recommended for open usage)
