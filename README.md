@@ -220,8 +220,9 @@ This toolkit offers a **clean, practical implementation** that mirrors what’s 
 
 ---
 
-## ✨ Author
+## 👋 About Me
 
-**Ansel Lin**  
-Product-minded Data Scientist | Causal Inference | ML Systems
+I’m [Ansel](https://www.linkedin.com/in/ansel-lin/), a Product-Focused Data Scientist building predictive systems, GenAI applications, and MLOps pipelines that drive real impact across global e-commerce products.
+
+📩 Reach out via [Medium](https://medium.com/@ansel-lin) or [GitHub](https://github.com/ansel-lin-global) to collaborate.
 
