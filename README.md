@@ -59,7 +59,7 @@ No references to:
 Clone the repository:
 
 ```bash
-git clone [https://github.com/ansel-lin-global/synthetic-control-toolkit.git](https://github.com/ansel-lin-global/synthetic-control-toolkit.git)
+git clone https://github.com/ansel-lin-global/synthetic-control-toolkit.git
 cd synthetic-control-toolkit
 ```
 
