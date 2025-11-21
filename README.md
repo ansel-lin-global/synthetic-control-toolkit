@@ -197,10 +197,10 @@ synthetic-control-toolkit/
 │   ├── scm_placebo.py       # Placebo testing module
 │   └── __init__.py
 ├── examples/
-│   ├── demo_scm.ipynb       # Interactive example (optional)
 │   ├── simulated_panel_data.csv
 │   └── simulated_predictors.csv
 ├── README.md
+├── requirements.txt
 └── LICENSE
 ```
 
